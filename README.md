@@ -14,18 +14,6 @@
 
 To get started, I'll create a basic hypothetical example using historical outbreak data. We'll visualize the trend of Zika cases over time and make a simple projection.
 
-**Year	Cases
-2014	100
-2015	150
-2016	2000
-2017	1200
-2018	700
-2019	500
-2020	300
-2021	250
-2022	200
-2023	180**
-
 **Step 2: Data Analysis**
 We can analyze this data to observe trends and patterns.
 
